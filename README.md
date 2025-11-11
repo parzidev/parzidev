@@ -31,27 +31,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parzidev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A960EE&icon_color=A960EE" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parzidev&theme=radical&hide_border=true&background=0D1117&ring=A960EE&fire=A960EE&currStreakLabel=A960EE" alt="GitHub Streak" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parzidev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A960EE" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parzidev&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 💻 Tech Stack
 
 <div align="center">
@@ -72,20 +51,6 @@
 <div align="center">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1013951210035875882?idleMessage=add%20me%20discord&theme=dark&hideSpotify=true&hideTag=true&hideBadges=true&hideTimestamp=true&hideDiscrim=true&hideDecoration=true&showDisplayName=true&animatedDecoration=false&animated=false&bg=C0A0D2)](https://discord.com/users/1013951210035875882)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🐍 Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/parzidev/parzidev/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
