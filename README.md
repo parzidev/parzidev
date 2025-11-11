@@ -77,7 +77,7 @@
 ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
-*Who needs APIs when you have bs4, requests and scrapy*
+> *Who needs APIs when you have bs4, requests and scrapy*
 
 </div>
 
