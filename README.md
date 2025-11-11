@@ -1,8 +1,11 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&width=435&lines=Hi+I'm+Parzi;Backend+Developer;Automation+%7C+Scraping;Who+needs+APIs+when+you+have+bs4%2C+requests+and+scrapy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=900&size=25&pause=1000&width=435&lines=Hi+I%27m+Parzi;Backend+Developer;Automation+%7C+Scraping)](https://parzi.dev/)
 
-![visitors](https://komarev.com/ghpvc/?username=parzidev&label=Profile%20Views&color=blueviolet&style=flat-square)
+```bash
+$ cat profile_views.log
+```
+![visitors](https://komarev.com/ghpvc/?username=parzidev&label=%24%20visitors&color=00ff00&style=flat&labelColor=000000)
 
 </div>
 
