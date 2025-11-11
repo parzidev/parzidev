@@ -2,6 +2,9 @@
 <h1 align="center">Hi I'm Parzi</h1>
 <h4 align="center">backend developer
 </h4>
+
+![visitors](https://komarev.com/ghpvc/?username=parzidev)
+
 </div>
 <div align="center">
   <a href="https://parzi.dev/"></a>
@@ -29,7 +32,7 @@
 </details>
 
 
-  [![Discord Presence](https://lanyard.cnrad.dev/api/1013951210035875882)](https://discord.com/users/1013951210035875882)
+  [![Discord Presence](https://lanyard.cnrad.dev/api/1013951210035875882?idleMessage=add%20me%20discord&theme=dark&hideSpotify=true&hideTag=true&hideBadges=true&hideTimestamp=true&hideDiscrim=true&hideDecoration=true&showDisplayName=true&animatedDecoration=false&animated=false&bg=C0A0D2)](https://discord.com/users/1013951210035875882)
 
 
 
