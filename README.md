@@ -92,7 +92,10 @@
 
 </div>
 
+<div align="center">
+
 ![Spotify](http://spoti.parzi.dev/api/svg/31stgqfrikmgl3jhingnah3qoz2y)
+</div>
 ---
 
 <div align="center">
