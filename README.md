@@ -84,7 +84,7 @@
 
 ---
 
-## 🎮 Discord Presence
+## add me
 
 <div align="center">
 
@@ -92,6 +92,7 @@
 
 </div>
 
+![Spotify](http://spoti.parzi.dev/api/svg/31stgqfrikmgl3jhingnah3qoz2y)
 ---
 
 <div align="center">
