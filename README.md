@@ -7,7 +7,7 @@
   <a href="https://parzi.dev/cv.html"><img src="https://img.shields.io/badge/full_cv-9A5D45?style=flat-square&logo=readdotcv&logoColor=white" alt="Full CV" /></a>
   <a href="https://www.linkedin.com/in/parzi/"><img src="https://img.shields.io/badge/linkedin-6B625C?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:me@parzi.dev"><img src="https://img.shields.io/badge/me%40parzi.dev-403A36?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://log.parzi.dev/badge/parzidev.svg?v=1" alt="Profile visitors" />
+  <img src="https://log.parzi.dev/badge/parzidev.svg" alt="Profile visitors" />
 </p>
 
 ## `whoami`
