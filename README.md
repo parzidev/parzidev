@@ -1,108 +1,115 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=900&size=25&pause=1000&width=435&lines=Hi+I%27m+Parzi;Backend+Developer;Automation+%7C+Scraping)](https://parzi.dev/)
-
-
-![visitors](https://komarev.com/ghpvc/?username=parzidev&label=%24%20visitors&color=00ff00&style=flat&labelColor=000000)
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Connect with Me
-
 <p align="center">
-  <a href="https://x.com/parzidev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
-  </a>
-  <a href="https://linkedin.com/in/parzi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:me@parzi.dev">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://parzi.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
+  <a href="https://parzi.dev"><img src="./assets/header.svg" alt="Ali Parzi Dinç — Backend, API and AI Systems" width="100%" /></a>
 </p>
 
-</div>
+<p align="center">
+  <a href="https://parzi.dev"><img src="https://img.shields.io/badge/parzi.dev-7C3F58?style=flat-square&logo=safari&logoColor=white" alt="Website" /></a>
+  <a href="https://parzi.dev/cv.html"><img src="https://img.shields.io/badge/full_cv-9A5D45?style=flat-square&logo=readdotcv&logoColor=white" alt="Full CV" /></a>
+  <a href="https://www.linkedin.com/in/parzi/"><img src="https://img.shields.io/badge/linkedin-6B625C?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:me@parzi.dev"><img src="https://img.shields.io/badge/me%40parzi.dev-403A36?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://log.parzi.dev/badge/parzidev" alt="Profile visitors" />
+</p>
 
----
+## `whoami`
 
-## 💻 Tech Stack
+I am **Ali Parzi Dinç**, an Istanbul-based backend and systems developer working across scalable APIs, real-time services, AI products, automation, iOS and developer tooling.
 
-<div align="center">
+- Shipped **100+ client projects** covering APIs, scraping, automation and integrations.
+- Built products serving **800k+ users** and public platforms reaching **600M+ views**.
+- Launched an end-to-end AI/iOS product on the App Store.
+- Comfortable owning the path from product idea and API contract to deployment, observability and production debugging.
+- Also experienced in gaming communities, moderation, localization and player engagement.
 
-**🐍 Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+`currently:` building reliable tools at the intersection of backend systems, AI and useful automation.
 
-**🌐 Frontend**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=flat-square&logo=htmx&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+## `selected systems`
 
-**🗄️ Databases & Storage**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+| Product / system | What I built | Core stack |
+|:--|:--|:--|
+| **StickerAI — Chibi Maker** | App Store product with AI generation, credits, subscriptions, webhooks, app extensions and 14-language distribution | SwiftUI, MVVM, Vision, Cloudflare Workers, D1, fal.ai, RevenueCat |
+| **Feetle.lol** | Viral public platform that reached **600M+ views** | Python, JavaScript, web platform engineering |
+| **Kick API** | Public streaming API used by **1,000+ users** | Python, REST, real-time services |
+| **Mastery API** | Riot API platform used by **500+ developers** | Python, APIs, caching, automation |
+| **ClashScope / CoC Analytics** | Player, clan, war and CWL analytics with snapshots, caching, tests and rate limiting | Flask, SQLite, Gunicorn, Docker |
+| **Streaming & OBS tooling** | WYSIWYG overlays, event monitors, subathon timers and multi-client state synchronization | WebSocket, Socket.IO, Python, JavaScript |
 
-**🔧 DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GH_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+## `open source snapshots`
 
-**☁️ Cloud & Hosting**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+| Repository | Notes |
+|:--|:--|
+| [`docker-steam-hour-booster`](https://github.com/parzidev/docker-steam-hour-booster) | Dockerized multi-AppID Steam hour booster with persistent Steam Guard authentication |
+| [`ronaldocu-bocek-filter`](https://github.com/parzidev/ronaldocu-bocek-filter) | Browser extension that filters unwanted X/Twitter posts |
+| [`100-python-apps`](https://github.com/parzidev/100-python-apps) | A growing collection of focused Python mini-apps |
+| [`muzik`](https://github.com/parzidev/muzik) | Native Swift/iOS music project |
+| [`magic-png`](https://github.com/parzidev/magic-png) | Compact C# image utility |
 
-**🔌 API & Integration**  
-![REST](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+## `toolbox`
 
-**🕷️ Web Scraping**  
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-FF6F00?style=flat-square&logo=python&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,swift,fastapi,flask,nodejs,express,docker,nginx,cloudflare,aws,git,githubactions,mongodb,sqlite&perline=8&theme=light" alt="Python, JavaScript, TypeScript, Swift, FastAPI, Flask, Node.js, Express, Docker, Nginx, Cloudflare, AWS, Git, GitHub Actions, MongoDB and SQLite" />
+</p>
 
-> *Who needs APIs when you have bs4, requests and scrapy*
+**Backend:** FastAPI · Flask · Node.js · Express · REST · GraphQL · WebSocket  
+**Automation:** scraping · Selenium · Scrapy · integrations · bots  
+**Data & AI:** SQLite · D1 · MongoDB · CatBoost · fal.ai · Gemini · analytics  
+**Mobile:** SwiftUI · MVVM · Combine · Vision · iOS extensions  
+**Infrastructure:** Docker · Nginx · Gunicorn · GitHub Actions · Cloudflare · AWS · Vercel
 
-</div>
+## `live signals`
 
----
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://discord.com/users/1013951210035875882">
+        <img src="https://lanyard.cnrad.dev/api/1013951210035875882?theme=light&bg=F7F3EE&borderRadius=12px&hideSpotify=true&hideTag=true&hideBadges=true&hideTimestamp=true&showDisplayName=true" alt="Live Discord status" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://open.spotify.com/user/31stgqfrikmgl3jhingnah3qoz2y">
+        <img src="https://spoti.parzi.dev/api/svg/31stgqfrikmgl3jhingnah3qoz2y" alt="Currently playing on Spotify" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-## add me
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parzidev&theme=transparent" alt="GitHub contribution overview" width="100%" />
+</p>
 
-<div align="center">
+<details>
+<summary><strong>experience & education</strong></summary>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1013951210035875882?idleMessage=add%20me%20discord&theme=dark&hideSpotify=true&hideTag=true&hideBadges=true&hideTimestamp=true&hideDiscrim=true&hideDecoration=true&showDisplayName=true&animatedDecoration=false&animated=false&bg=C0A0D2)](https://discord.com/users/1013951210035875882)
+### Experience
 
-</div>
+- **Freelance Backend Developer — Fiverr** · 2022–present  
+  International client work across APIs, automation, scraping and integrations.
+- **Founder & Full-Stack iOS Developer — StickerAI** · 2026–present  
+  End-to-end product, iOS, AI generation pipeline and backend ownership.
+- **Independent Backend & Systems Developer**  
+  High-traffic APIs, real-time services, analytics, observability and internal tools.
+- **Community Manager & API Contributor — Heavy Metal Machines** · 2019–2020  
+  Community growth, engagement, operations and API-supported workflows.
+- Additional experience in League of Graphs Turkey community operations, export/e-commerce web support and NDA game systems.
 
-<div align="center">
+### Education
 
-![Spotify](http://spoti.parzi.dev/api/svg/31stgqfrikmgl3jhingnah3qoz2y)
-</div>
----
+- Software Engineering — Istinye University
+- Management Information Systems — Anadolu University
+- Computer Programming — Kastamonu University
+- Turkish: native · English: B2
 
-<div align="center">
-  
-**⭐️ From [parzidev](https://github.com/parzidev)**
+</details>
 
-</div>
+## `connect`
 
+<p align="center">
+  <a href="https://parzi.dev">Website</a> ·
+  <a href="https://parzi.dev/cv.html">CV</a> ·
+  <a href="https://www.linkedin.com/in/parzi/">LinkedIn</a> ·
+  <a href="https://x.com/parzidev">X</a> ·
+  <a href="https://www.instagram.com/parzi.dev">Instagram</a> ·
+  <a href="https://discord.com/users/1013951210035875882">Discord</a> ·
+  <a href="mailto:me@parzi.dev">Email</a>
+</p>
 
-
+<p align="center"><code>build small · ship often · scale what matters</code></p>
