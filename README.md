@@ -26,22 +26,23 @@ I am **Parzi Dinç**, an Istanbul-based backend and systems developer working ac
 
 | Product | What it does | Built with |
 |:--|:--|:--|
-| **StickerAI — Chibi Maker** | App Store product with AI generation, credits, subscriptions, webhooks, app extensions and 14-language distribution | SwiftUI, MVVM, Vision, Cloudflare Workers, D1, fal.ai, RevenueCat |
+| **[StickerAI — Chibi Maker](https://apps.apple.com/tr/app/stickerai-chibi-maker/id6761774054?l=tr)** | App Store product with AI generation, credits, subscriptions, webhooks, app extensions and 14-language distribution | SwiftUI, MVVM, Vision, Cloudflare Workers, D1, fal.ai, RevenueCat |
 | **[lolstat.data](https://test.parzi.dev)** | Riot match and player analytics, developer playground, OpenAPI surface, 24+ game datasets and a CatBoost-based ML prediction lab | Python, Flask, Riot API, CatBoost, scikit-learn, pandas, Docker |
 | **[League Mastery](https://mastery.parzi.dev)** | Multi-region champion mastery search with player profiles, comparisons, JSON APIs and Voronoi-style visualizations | Python, Flask, Riot API, SQLite, JavaScript, Docker |
 | **[timed.match](https://timed.parzi.dev)** | Match-V5 lookup that turns match and timeline data into a time-oriented report with a compact JSON API | Python, Flask, Riot Match-V5, JavaScript, Docker |
 | **[LogParzi](https://log.parzi.dev)** | Self-hosted visitor analytics and security service with event tracking, IP/ASN intelligence, VPN/proxy/Tor detection, rate limits and public counters | Python, Flask, Gunicorn, Docker, JSON/TXT storage |
 | **[Spoti Widget](https://spoti.parzi.dev)** | Spotify OAuth service with now-playing and history views, customizable embeds, OBS widgets, presets, caching and monitoring | Python, Flask, Spotipy, Redis, JavaScript, Docker |
+| **[Fitbit Dashboard](https://fitbit.parzi.dev)** | Personal health dashboard for live steps, distance, calories, sleep, heart rate, goals, badges and activity history | Python, Flask, Fitbit Web API, local persistence, JavaScript, Docker |
 
 ## `selected systems`
 
 | Product / system | What I built | Core stack |
 |:--|:--|:--|
-| **Feetle.lol** | Viral public platform that reached **600M+ views** | Python, JavaScript, web platform engineering |
-| **Kick API** | Public streaming API used by **1,000+ users** | Python, REST, real-time services |
-| **Mastery API** | Riot API platform used by **500+ developers** | Python, APIs, caching, automation |
-| **ClashScope / CoC Analytics** | Player, clan, war and CWL analytics with snapshots, caching, tests and rate limiting | Flask, SQLite, Gunicorn, Docker |
-| **Streaming & OBS tooling** | WYSIWYG overlays, event monitors, subathon timers and multi-client state synchronization | WebSocket, Socket.IO, Python, JavaScript |
+| **[Feetle.lol](https://feetle.lol)** | Viral public platform that reached **600M+ views** | Python, JavaScript, web platform engineering |
+| **[Kick API](https://kick.parzi.dev)** | Public streaming API used by **1,000+ users** | Python, REST, real-time services |
+| **[Mastery API](https://mastery.parzi.dev)** | Riot API platform used by **500+ developers** | Python, APIs, caching, automation |
+| **[ClashScope / CoC Analytics](https://coc.parzi.dev)** | Player, clan, war and CWL analytics with snapshots, caching, tests and rate limiting | Flask, SQLite, Gunicorn, Docker |
+| **[Streaming & OBS tooling](https://kick.parzi.dev)** | WYSIWYG overlays, event monitors, subathon timers and multi-client state synchronization | WebSocket, Socket.IO, Python, JavaScript |
 
 ## `open source snapshots`
 
