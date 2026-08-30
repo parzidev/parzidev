@@ -1,5 +1,5 @@
 <svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Ali Parzi Dinç — Backend, API and AI Systems</title>
+  <title id="title">Parzi Dinç — Backend, API and AI Systems</title>
   <desc id="desc">A warm, minimal, technology-inspired profile banner.</desc>
   <defs>
     <linearGradient id="paper" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
@@ -39,7 +39,7 @@
   </g>
 
   <text x="96" y="137" fill="#9A5D45" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="600" letter-spacing="1.5">~/PARZIDEV</text>
-  <text x="96" y="183" fill="#2E2926" font-family="Inter, ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="38" font-weight="750" letter-spacing="-1">ALI PARZI DINÇ</text>
+  <text x="96" y="183" fill="#2E2926" font-family="Inter, ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="38" font-weight="750" letter-spacing="-1">PARZI DINÇ</text>
   <text x="96" y="218" fill="#7C3F58" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="650" letter-spacing="0.8">BACKEND · API · AI SYSTEMS</text>
   <text x="96" y="246" fill="#6B625C" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="0.5">istanbul / building useful things that scale</text>
 
