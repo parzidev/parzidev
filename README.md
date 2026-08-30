@@ -30,6 +30,8 @@ I am **Parzi Dinç**, an Istanbul-based backend and systems developer working ac
 | **[lolstat.data](https://test.parzi.dev)** | Riot match and player analytics, developer playground, OpenAPI surface, 24+ game datasets and a CatBoost-based ML prediction lab | Python, Flask, Riot API, CatBoost, scikit-learn, pandas, Docker |
 | **[League Mastery](https://mastery.parzi.dev)** | Multi-region champion mastery search with player profiles, comparisons, JSON APIs and Voronoi-style visualizations | Python, Flask, Riot API, SQLite, JavaScript, Docker |
 | **[timed.match](https://timed.parzi.dev)** | Match-V5 lookup that turns match and timeline data into a time-oriented report with a compact JSON API | Python, Flask, Riot Match-V5, JavaScript, Docker |
+| **[LogParzi](https://log.parzi.dev)** | Self-hosted visitor analytics and security service with event tracking, IP/ASN intelligence, VPN/proxy/Tor detection, rate limits and public counters | Python, Flask, Gunicorn, Docker, JSON/TXT storage |
+| **[Spoti Widget](https://spoti.parzi.dev)** | Spotify OAuth service with now-playing and history views, customizable embeds, OBS widgets, presets, caching and monitoring | Python, Flask, Spotipy, Redis, JavaScript, Docker |
 
 ## `selected systems`
 
@@ -47,7 +49,6 @@ I am **Parzi Dinç**, an Istanbul-based backend and systems developer working ac
 |:--|:--|
 | [`docker-steam-hour-booster`](https://github.com/parzidev/docker-steam-hour-booster) | Dockerized multi-AppID Steam hour booster with persistent Steam Guard authentication |
 | [`100-python-apps`](https://github.com/parzidev/100-python-apps) | A growing collection of focused Python mini-apps |
-| [`muzik`](https://github.com/parzidev/muzik) | Native Swift/iOS music project |
 | [`magic-png`](https://github.com/parzidev/magic-png) | Compact C# image utility |
 
 ## `toolbox`
