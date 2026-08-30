@@ -46,7 +46,7 @@ I am **Parzi Dinç**, an Istanbul-based backend and systems developer working ac
 | **[Feetle.lol](https://feetle.lol)** | Viral public platform that reached **600M+ views** | Python, JavaScript, web platform engineering |
 | **[Kick API](https://kick.parzi.dev)** | Public streaming API used by **1,000+ users** | Python, REST, real-time services |
 | **[Mastery API](https://mastery.parzi.dev)** | Riot API platform used by **500+ developers** | Python, APIs, caching, automation |
-| **[ClashScope / CoC Analytics](https://coc.parzi.dev)** | Player, clan, war and CWL analytics with snapshots, caching, tests and rate limiting | Flask, SQLite, Gunicorn, Docker |
+| **[CoC Analytics](https://coc.parzi.dev)** | Player, clan, war and CWL analytics with snapshots, caching, tests and rate limiting | Flask, SQLite, Gunicorn, Docker |
 | **[Streaming & OBS tooling](https://kick.parzi.dev)** | WYSIWYG overlays, event monitors, subathon timers and multi-client state synchronization | WebSocket, Socket.IO, Python, JavaScript |
 
 ## `open source snapshots`
