@@ -22,11 +22,7 @@ I am **Parzi Dinç**, an Istanbul-based backend and systems developer working ac
 
 `currently:` building reliable tools at the intersection of backend systems, AI and useful automation.
 
-## `flagship · discord automation platform`
-
-**[Parzi Discord Bot](https://bot.parzi.dev)** — a modular automation platform combining recurring jobs, moderation, Riot/Kick/Spotify integrations and an OAuth-protected control panel.
-
-## `products`
+## `products & systems`
 
 | Product | What it does | Built with |
 |:--|:--|:--|
@@ -38,11 +34,6 @@ I am **Parzi Dinç**, an Istanbul-based backend and systems developer working ac
 | **[LogParzi](https://log.parzi.dev)** | Self-hosted visitor analytics and security service with event tracking, IP/ASN intelligence, VPN/proxy/Tor detection, rate limits and public counters | Python, Flask, Gunicorn, Docker, JSON/TXT storage |
 | **[Spoti Widget](https://spoti.parzi.dev)** | Spotify OAuth service with now-playing and history views, customizable embeds, OBS widgets, presets, caching and monitoring | Python, Flask, Spotipy, Redis, JavaScript, Docker |
 | **[Fitbit Dashboard](https://fitbit.parzi.dev)** | Personal health dashboard for live steps, distance, calories, sleep, heart rate, goals, badges and activity history | Python, Flask, Fitbit Web API, local persistence, JavaScript, Docker |
-
-## `selected systems`
-
-| Product / system | What I built | Core stack |
-|:--|:--|:--|
 | **[Feetle.lol](https://feetle.lol)** | Viral public platform that reached **600M+ views** | Python, JavaScript, web platform engineering |
 | **[Kick API](https://kick.parzi.dev)** | Public streaming API used by **1,000+ users** | Python, REST, real-time services |
 | **[Mastery API](https://mastery.parzi.dev)** | Riot API platform used by **500+ developers** | Python, APIs, caching, automation |
