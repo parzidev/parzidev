@@ -73,7 +73,7 @@ I am **Parzi Dinç**, an Istanbul-based backend and systems developer working ac
 
 <p align="center">
   <a href="https://discord.com/users/1013951210035875882">
-    <img src="https://lanyard.cnrad.dev/api/1013951210035875882?theme=light&bg=F7F3EE&borderRadius=12px&hideSpotify=true&hideTag=true&hideBadges=true&hideTimestamp=true&showDisplayName=true" alt="Live Discord status" width="410" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbot.parzi.dev%2Fapi%2Fuser%2F1013951210035875882&amp;query=%24.status&amp;label=discord%20%E2%80%A2%20parzidev&amp;color=6B625C&amp;style=flat-square&amp;logo=discord&amp;logoColor=white" alt="Live Discord status from bot.parzi.dev" />
   </a>
 </p>
 
