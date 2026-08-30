@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://parzi.dev"><img src="./assets/header.svg" alt="Parzi Dinç — Backend, API and AI Systems" width="100%" /></a>
+  <a href="https://parzi.dev"><img src="./assets/header-v2.svg" alt="Parzi Dinç — Backend, API and AI Systems" width="100%" /></a>
 </p>
 
 <p align="center">
