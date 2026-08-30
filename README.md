@@ -24,47 +24,7 @@ I am **Parzi Dinç**, an Istanbul-based backend and systems developer working ac
 
 ## `flagship · discord automation platform`
 
-**[Parzi Discord Bot](https://bot.parzi.dev)** is my main long-running automation system: a modular Discord service with **19 recurring background jobs**, event-driven moderation, community tooling, game integrations, persistent state and an OAuth-protected Quart control panel.
-
-<details open>
-<summary><strong>Recurring automation engine</strong></summary>
-
-- Rotates configurable bot presence states and keeps the saved voice connection alive with automatic reconnects.
-- Detects live League of Legends matches, publishes team/champion data, then updates the same message with result, duration and KDA while archiving the match JSON.
-- Posts scheduled mastery snapshots, tracks summoner-level changes and automatically updates a Discord channel name when the level changes.
-- Watches Kick chats for configured keywords, monitors multiple streamers for live/offline transitions and periodically clears processed-message state.
-- Polls LogParzi for new visitor and interaction events, sends channel/DM alerts and refreshes visit details after a delay.
-- Watches Spotify playlists for newly added tracks and sends channel plus DM notifications.
-- Runs birthday checks and configurable celebration messages, including calculated ages and upcoming-birthday data.
-- Publishes Feetle traffic/security statistics from Cloudflare and tracks the platform's total score.
-- Watches Trendyol collections and OnuAl deal feeds for new products, coupons and trending offers.
-- Monitors GitHub repositories for new commits and routes project-specific updates to separate channels.
-- Tracks member game, streaming and Spotify activity without replaying old state after a restart.
-- Includes temperature-threshold alerts and scheduled housekeeping for automation caches and honeypot experiments.
-
-</details>
-
-<details>
-<summary><strong>Community, moderation & event automation</strong></summary>
-
-- Automatically creates or configures honeypot channels; supports softban, ban, kick, timeout-first, DM/log forwarding and race-condition protection.
-- Records deleted and edited messages, forwards incoming bot DMs and rewrites X/Instagram links into embed-friendly alternatives.
-- Tracks invite usage, member joins/leaves, account age, membership duration and roles; can assign an automatic join role.
-- Provides owner/admin tools for purge, mute, ban/unban, kick, nicknames, role creation/colors, mass roles and channel operations.
-- Adds context-aware reactions and offers searchable activity, moderation and chat-log views.
-
-</details>
-
-<details>
-<summary><strong>Commands, integrations & control panel</strong></summary>
-
-- Riot/LoL: profiles, match history, live matches, champion stats/skins/rotation, mastery, challenger ladder and gameplay analytics.
-- Spotify, Fitbit, Steam, weather, water/dam status, Turkish league data, birthdays and server activity commands.
-- Prefix and slash-command support with interactive, categorized help and controlled slash synchronization.
-- Discord OAuth panel for presence/avatar control, task start/stop, users, roles, channels, birthdays, announcements, moderation, blacklist, honeypot, embeds, logs and chat history.
-- Built with Python, discord.py, Quart, Hypercorn, SQLite/JSON persistence, aiohttp, BeautifulSoup, Spotify APIs and Docker.
-
-</details>
+**[Parzi Discord Bot](https://bot.parzi.dev)** — a modular automation platform combining recurring jobs, moderation, Riot/Kick/Spotify integrations and an OAuth-protected control panel.
 
 ## `products`
 
