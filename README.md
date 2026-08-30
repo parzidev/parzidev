@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://parzi.dev"><img src="./assets/header.svg" alt="Ali Parzi Dinç — Backend, API and AI Systems" width="100%" /></a>
+  <a href="https://parzi.dev"><img src="./assets/header.svg" alt="Parzi Dinç — Backend, API and AI Systems" width="100%" /></a>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## `whoami`
 
-I am **Ali Parzi Dinç**, an Istanbul-based backend and systems developer working across scalable APIs, real-time services, AI products, automation, iOS and developer tooling.
+I am **Parzi Dinç**, an Istanbul-based backend and systems developer working across scalable APIs, real-time services, AI products, automation, iOS and developer tooling.
 
 - Shipped **100+ client projects** covering APIs, scraping, automation and integrations.
 - Built products serving **800k+ users** and public platforms reaching **600M+ views**.
@@ -38,7 +38,6 @@ I am **Ali Parzi Dinç**, an Istanbul-based backend and systems developer workin
 | Repository | Notes |
 |:--|:--|
 | [`docker-steam-hour-booster`](https://github.com/parzidev/docker-steam-hour-booster) | Dockerized multi-AppID Steam hour booster with persistent Steam Guard authentication |
-| [`ronaldocu-bocek-filter`](https://github.com/parzidev/ronaldocu-bocek-filter) | Browser extension that filters unwanted X/Twitter posts |
 | [`100-python-apps`](https://github.com/parzidev/100-python-apps) | A growing collection of focused Python mini-apps |
 | [`muzik`](https://github.com/parzidev/muzik) | Native Swift/iOS music project |
 | [`magic-png`](https://github.com/parzidev/magic-png) | Compact C# image utility |
