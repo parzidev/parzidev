@@ -7,7 +7,7 @@
   <a href="https://parzi.dev/cv.html"><img src="https://img.shields.io/badge/full_cv-9A5D45?style=flat-square&logo=readdotcv&logoColor=white" alt="Full CV" /></a>
   <a href="https://www.linkedin.com/in/parzi/"><img src="https://img.shields.io/badge/linkedin-6B625C?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:me@parzi.dev"><img src="https://img.shields.io/badge/me%40parzi.dev-403A36?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://log.parzi.dev/badge/parzidev" alt="Profile visitors" />
+  <img src="https://log.parzi.dev/badge/parzidev.svg?v=1" alt="Profile visitors" />
 </p>
 
 ## `whoami`
@@ -57,20 +57,11 @@ I am **Ali Parzi Dinç**, an Istanbul-based backend and systems developer workin
 
 ## `live signals`
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://discord.com/users/1013951210035875882">
-        <img src="https://lanyard.cnrad.dev/api/1013951210035875882?theme=light&bg=F7F3EE&borderRadius=12px&hideSpotify=true&hideTag=true&hideBadges=true&hideTimestamp=true&showDisplayName=true" alt="Live Discord status" width="100%" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://open.spotify.com/user/31stgqfrikmgl3jhingnah3qoz2y">
-        <img src="https://spoti.parzi.dev/api/svg/31stgqfrikmgl3jhingnah3qoz2y" alt="Currently playing on Spotify" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://discord.com/users/1013951210035875882">
+    <img src="https://lanyard.cnrad.dev/api/1013951210035875882?theme=light&bg=F7F3EE&borderRadius=12px&hideSpotify=true&hideTag=true&hideBadges=true&hideTimestamp=true&showDisplayName=true" alt="Live Discord status" width="410" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parzidev&theme=transparent" alt="GitHub contribution overview" width="100%" />
