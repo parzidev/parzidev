@@ -63,10 +63,6 @@ I am **Ali Parzi Dinç**, an Istanbul-based backend and systems developer workin
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parzidev&theme=transparent" alt="GitHub contribution overview" width="100%" />
-</p>
-
 <details>
 <summary><strong>experience & education</strong></summary>
 
