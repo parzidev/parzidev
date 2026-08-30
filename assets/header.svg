@@ -1,0 +1,51 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ali Parzi Dinç — Backend, API and AI Systems</title>
+  <desc id="desc">A warm, minimal, technology-inspired profile banner.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FBF8F3"/>
+      <stop offset="1" stop-color="#F2E9DF"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#7C3F58" stroke-opacity="0.055"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="20" flood-color="#5E3B2C" flood-opacity="0.10"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="28" fill="url(#paper)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="318" rx="27" stroke="#7C3F58" stroke-opacity="0.16" stroke-width="2"/>
+
+  <g opacity="0.9">
+    <path d="M848 78H958L1000 120H1130" stroke="#9A5D45" stroke-width="2"/>
+    <path d="M904 154H1034L1072 192H1164" stroke="#7C3F58" stroke-width="2"/>
+    <path d="M820 232H930L974 188H1040" stroke="#B98563" stroke-width="2"/>
+    <circle cx="848" cy="78" r="6" fill="#9A5D45"/>
+    <circle cx="1130" cy="120" r="6" fill="#9A5D45"/>
+    <circle cx="904" cy="154" r="6" fill="#7C3F58"/>
+    <circle cx="1164" cy="192" r="6" fill="#7C3F58"/>
+    <circle cx="820" cy="232" r="6" fill="#B98563"/>
+    <circle cx="1040" cy="188" r="6" fill="#B98563"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="64" y="48" width="704" height="224" rx="20" fill="#FFFDF9" stroke="#7C3F58" stroke-opacity="0.18"/>
+    <circle cx="92" cy="75" r="5" fill="#7C3F58"/>
+    <circle cx="111" cy="75" r="5" fill="#9A5D45"/>
+    <circle cx="130" cy="75" r="5" fill="#C79A78"/>
+    <path d="M64 98H768" stroke="#7C3F58" stroke-opacity="0.12"/>
+  </g>
+
+  <text x="96" y="137" fill="#9A5D45" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="600" letter-spacing="1.5">~/PARZIDEV</text>
+  <text x="96" y="183" fill="#2E2926" font-family="Inter, ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="38" font-weight="750" letter-spacing="-1">ALI PARZI DINÇ</text>
+  <text x="96" y="218" fill="#7C3F58" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="650" letter-spacing="0.8">BACKEND · API · AI SYSTEMS</text>
+  <text x="96" y="246" fill="#6B625C" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="0.5">istanbul / building useful things that scale</text>
+
+  <g transform="translate(1070 55)">
+    <rect width="74" height="30" rx="15" fill="#FFFDF9" stroke="#7C3F58" stroke-opacity="0.22"/>
+    <circle cx="18" cy="15" r="5" fill="#9A5D45"/>
+    <text x="31" y="19" fill="#403A36" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700">ONLINE</text>
+  </g>
+</svg>
