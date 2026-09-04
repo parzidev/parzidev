@@ -1,3 +1,129 @@
+# Parzidev
+
+> Engineering README reviewed from the repository state on 2026-09-05. Observed facts are separated from items that still need manual verification.
+
+**Repository:** [parzidev/parzidev](https://github.com/parzidev/parzidev)  
+**Visibility:** public  
+**Default branch:** `main`  
+**Latest GitHub push observed:** `2026-08-30T13:33:41Z`  
+**Scanned HEAD:** `4810fab73d4b368812fee3b1f71fd159e2f75c7d`  
+**Repository description:** Not set on GitHub.
+
+## Purpose and scope
+
+<p align="center"> <a href="https://parzi.dev"><img src="./assets/header-v2.svg" alt="Parzi Dinç — Backend, API and AI Systems" width="100%" /></a> </p>
+
+The repository currently contains **2** source-tree files, including **0** code-like files. This README describes the repository as it exists in the scanned snapshot; it is not a claim that every historical or runtime path is still active.
+
+## Capability inventory
+
+### README evidence
+
+The source README exposes these sections: ``whoami``, ``products & systems``, ``open source snapshots``, ``toolbox``, ``live signals``, `Experience`, `Education`, ``connect``.
+
+### Detected technology profile
+
+| — | No code extension was available in the checkout. |
+
+### Project structure
+
+Top-level paths observed:
+
+- `README.md`
+- `assets`
+
+Key entrypoint candidates:
+
+- None detected in the static scan.
+
+## Architecture and runtime shape
+
+| Area | Observed evidence |
+| --- | --- |
+| Runtime shape | No Docker/Compose or conventional entrypoint was detected; inspect the structure below. |
+
+Interpretation boundary: filenames and manifests show where a component may start, but they do not prove deployment topology, request flow, persistence semantics, or production readiness. Those items should be confirmed against the implementation before making operational claims about the project.
+
+## Code-level signals
+
+The following patterns were extracted from readable code files. They are navigation aids for the next human review, not a substitute for reading the implementation:
+
+_No code-level signals were available from the local checkout; this may be an API-only tree scan._
+
+## Setup and operation
+
+The most relevant source README material is reproduced below:
+
+No setup section was detected in the source README. Use the manifests and entrypoint candidates as the starting point for a manual runbook.
+
+Static setup/deployment evidence:
+
+- Docker files: none detected
+- Build/config manifests: none detected
+- Configuration-like paths: none detected
+
+### Command evidence
+
+_No fenced command/config blocks were detected in the source README._
+
+## API, integrations, and data flow
+
+No API/integration section was detected in the source README. External boundaries require code-level review before publication.
+
+Before publishing a public README, confirm the following from code and deployment configuration:
+
+- inbound routes, ports, webhooks, and authentication middleware;
+- outbound providers, rate limits, retries, and failure behavior;
+- persistence files/databases and backup/restore expectations;
+- whether any endpoint can mutate external state.
+
+## Configuration and secrets
+
+Detected names (names only; values were intentionally excluded):
+
+No conventional environment-variable names were detected in the sampled manifests/entrypoints.
+
+Configuration paths observed:
+
+- None detected in the static scan.
+
+Do not paste real tokens, passwords, private keys, cookies, or production URLs into this README or a public README. Replace them with placeholders and document where the operator should provision them.
+
+## Security and privacy
+
+No dedicated security section was detected in the source README. Treat all detected environment names as secrets or operational configuration until verified.
+
+Minimum publication checklist:
+
+- document trust boundaries and the intended network exposure;
+- explain authentication and authorization separately;
+- state whether logs, uploads, identifiers, or third-party data are retained;
+- include a responsible-use note where the project interacts with Steam, Kick, Riot, Spotify, Cloudflare, or other external platforms;
+- keep example configuration values synthetic.
+
+## Validation and maintenance
+
+No validation section was detected in the source README. Static scan found the test candidates listed below; commands still need to be confirmed.
+
+No test-like path was detected by filename; this does not prove that the project has no tests.
+
+Test-like paths observed:
+
+- None detected in the static scan.
+
+CI/workflow and maintenance evidence should be verified before adding badges or claiming release guarantees.
+
+## Known gaps and verification notes
+
+- Repository snapshot was available for static inspection.
+- This was a static documentation scan; no repository code, containers, network services, or test suites were executed.
+- “Detected” means a filename, README section, manifest, or sampled entrypoint matched the scanner; it is not a security audit.
+- README sections may describe an older state than the current code. Compare the published README with the latest default-branch files before committing it upstream.
+
+## Reference README material (sanitized)
+
+The relevant source README is retained below as reference material, with credential-shaped values removed.
+
 <p align="center">
   <a href="https://parzi.dev"><img src="./assets/header-v2.svg" alt="Parzi Dinç — Backend, API and AI Systems" width="100%" /></a>
 </p>
