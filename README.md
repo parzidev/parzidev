@@ -32,7 +32,16 @@ My work ranges from freelance integrations and scraping tools to community platf
 
 I've worked with international clients on APIs, automation and integrations as a freelance developer since 2022. My background also includes gaming communities, moderation and localization, which continues to shape the tools I build.
 
-Outside my main products, I share smaller projects such as [100 Python Apps](https://github.com/parzidev/100-python-apps) and [Magic PNG](https://github.com/parzidev/magic-png).
+### Right now
+
+<p>
+  <a href="https://discord.com/users/1013951210035875882"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbot.parzi.dev%2Fapi%2Fuser%2F1013951210035875882&amp;query=%24.status&amp;label=Discord&amp;color=6B625C&amp;style=flat-square&amp;logo=discord&amp;logoColor=white&amp;cacheSeconds=300" alt="Discord status" /></a>
+  <img src="https://log.parzi.dev/badge/parzidev.svg" alt="Profile views" />
+</p>
+
+<a href="https://spoti.parzi.dev/user/31stgqfrikmgl3jhingnah3qoz2y/embed-studio?design=minimal&amp;width=560&amp;height=120&amp;bg_color=%23202620&amp;text_color=%23eef3ee&amp;progress_color=%2373c991&amp;font_size=20&amp;widget_border_radius=16&amp;widget_shadow=none&amp;auto_color=false&amp;transparent=false&amp;safe_padding=12&amp;animation=false&amp;marquee=true&amp;paused_mode=last&amp;idle_mode=message&amp;offline_mode=message&amp;status_message=Birazdan+yeni+bir+%C5%9Fark%C4%B1&amp;show_progress=true&amp;hide_cover=false&amp;hide_spotify_logo=false">
+  <img src="https://spoti.parzi.dev/api/svg/31stgqfrikmgl3jhingnah3qoz2y" alt="What I'm listening to on Spotify" width="480" />
+</a>
 
 ### Find me
 
